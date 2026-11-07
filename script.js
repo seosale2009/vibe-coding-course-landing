@@ -1,5 +1,4 @@
-// Replace this URL with the public link to your MAX channel before publishing.
-const MAX_CHANNEL_URL = "https://max.ru/";
+const MAX_CHANNEL_URL = "https://max.ru/seosaler";
 
 document.querySelectorAll("[data-max-link]").forEach((link) => {
     link.href = MAX_CHANNEL_URL;
